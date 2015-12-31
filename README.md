@@ -9,4 +9,8 @@
 
 # Section 2
 - Section 2 is design with GoogleMaps framework, user can search destination and it will generate many routes for him and also you can go with walking and driving in in this section.
+
+# Note
+- Please install cocoapods to run this project:- type "pod install" from your terminal
+
 thanks for downloading ...
